@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backMessage">#fafafa</color>
+    <color name="messageText">#f5767676</color>
+    <color name="colorPrimaryText">#050505</color>
+    <color name="timeChat">#202020</color>
+    <color name="themeChat" tools:ignore="DuplicateDefinition">#202020</color>
+    <color name="bottomMenu">#342e3d</color>
+    <color name="commonBack">#6b499f</color>
+    <color name="commonHint">#97a0e5</color>
+    <color name="signinTv">#99ffffff</color>
+    <color name="deleteAccountText">#8a8c98</color>
+    <color name="backApp" tools:ignore="DuplicateDefinition">#fafafa</color>
+    <color name="white">#ffffff</color>
+
+
+</resources>

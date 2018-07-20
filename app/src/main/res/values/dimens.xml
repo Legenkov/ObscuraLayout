@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="et_password_width">275dp</dimen>
+    <dimen name="margin_top_et_password">234</dimen>
+    <dimen name="margin_left_et">60dp</dimen>
+    <dimen name="et_username_width">275dp</dimen>
+    <dimen name="margin_top_et_username">170dp</dimen>
+    <dimen name="textSize_tv_signin">52sp</dimen>
+    <dimen name="margin_left_tv_signin">60dp</dimen>
+    <dimen name="margin_top_tv_signin">30dp</dimen>
+    <dimen name="textSize_tv_up">25sp</dimen>
+    <dimen name="margin_left_btn_up">225dp</dimen>
+    <dimen name="margin_top_btn_up">95dp</dimen>
+    <dimen name="margin_left_btn_forgot">200dp</dimen>
+    <dimen name="margin_top_btn_forgot">280dp</dimen>
+    <dimen name="iv_social_width">25dp</dimen>
+    <dimen name="iv_social_heigth">25dp</dimen>
+    <dimen name="margin_left_btn_google">90dp</dimen>
+    <dimen name="margin_btn_social_bottom">45dp</dimen>
+    <dimen name="margin_left_btn_facebook">45dp</dimen>
+    <dimen name="margin_left_btn_twitter">135dp</dimen>
+    <dimen name="margin_top_btn_enter_left">200dp</dimen>
+    <dimen name="margin_btn_enter_bottom">40dp</dimen>
+    <dimen name="margin_left_btn_enter_arrow">300dp</dimen>
+    <dimen name="margin_btn_arrow_bottom">43dp</dimen>
+    <dimen name="margin_btn_arrow_top">54dp</dimen>
+</resources>
